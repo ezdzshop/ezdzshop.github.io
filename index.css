@@ -1,7 +1,7 @@
-.home-hero-heading del {
-  text-decoration: line-through;
-  color: grey; /* Choose your desired color */
-}
+  .home-hero-heading del {
+    text-decoration: line-through;
+    color: grey; /* Choose your desired color */
+  }
 
 .feature-card-container {
   gap: var(--dl-space-space-unit);
@@ -173,7 +173,7 @@
   width: 100%;
   height: auto;
   display: flex;
-  margin-top: 96px;
+  margin-top: 80px;
   align-items: flex-start;
   justify-content: center;
 }
