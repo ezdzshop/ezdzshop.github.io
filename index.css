@@ -1,3 +1,8 @@
+.home-hero-heading del {
+  text-decoration: line-through;
+  color: grey; /* Choose your desired color */
+}
+
 .feature-card-container {
   gap: var(--dl-space-space-unit);
   display: flex;
